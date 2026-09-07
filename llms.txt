@@ -1,0 +1,25 @@
+# Adaptum.AI
+
+> Websites, hosting and AI automation for UK local and independent businesses. Yorkshire-based, working UK-wide.
+
+Adaptum.AI is a two-person team that builds and hosts custom websites for small UK businesses, then layers on AI and automation work (strategy, process automation, knowledge systems, compliance readiness, infrastructure) once the site is live and generating leads. Two flat-rate website plans (Silver, Gold) are published on the site; AI/automation projects are scoped and quoted individually.
+
+## Key pages
+
+- [Home](https://adaptumai.co.uk/index.html): overview, pricing summary, AI services summary, about, contact form
+- [Services & Pricing](https://adaptumai.co.uk/services.html): full Silver/Gold plan details, AI & automation service list, FAQ
+- [Pricing (machine-readable)](https://adaptumai.co.uk/pricing.md): structured plan and price data
+- [Free AI Readiness Assessment](https://adaptumai.co.uk/ai-readiness.html): 6-question quiz with an instant recommendation
+- [Insights](https://adaptumai.co.uk/insights.html): articles on process automation and AI adoption for UK SMBs
+
+## AI & automation services
+
+- [AI Strategy & Readiness](https://adaptumai.co.uk/services/ai-strategy.html)
+- [Process Automation](https://adaptumai.co.uk/services/process-automation.html)
+- [Knowledge Systems](https://adaptumai.co.uk/services/knowledge-systems.html)
+- [AI Compliance Readiness](https://adaptumai.co.uk/services/ai-compliance.html)
+- [Systems & Infrastructure](https://adaptumai.co.uk/services/web-development.html)
+
+## Contact
+
+Email: contact@adaptumai.com — based in Yorkshire, UK, working with businesses across the UK.
